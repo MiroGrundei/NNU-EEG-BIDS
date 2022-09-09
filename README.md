@@ -9,7 +9,6 @@ https://bids.neuroimaging.io/
 Neurocomputation Neuroimaging Unit (NNU):
 https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neurocom_neuroimag/index.html
 
-Data shared:
+Data previously shared in BIDS format:
 [Neural surprise in somatosensory Bayesian learning](https://osf.io/83pgq/?view_only=)
-
-Paper: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008068
+--> Paper: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008068
