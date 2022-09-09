@@ -21,7 +21,7 @@ bids.dataset_description(dataset_name=dataset_name,
                              acknowledgement=acknowledgement,
                              dataset_doi=dataset_doi)
 
-n_subs = 1
+n_subs = 34
 rm_subs = [20, 21]
 for sub in [s for s in range(1, n_subs+1) if s not in rm_subs]:
 
